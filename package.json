@@ -1,0 +1,50 @@
+{
+  "name": "grunt-cmd-hbs",
+  "description": "Precompile Handlebars templates to cmd module.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bingdian/grunt-cmd-hbs",
+  "author": {
+    "name": "bingdian",
+    "email": "imbingdian@gmail.com",
+    "url": "http://wlog.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bingdian/grunt-cmd-hbs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bingdian/grunt-cmd-hbs/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bingdian/grunt-cmd-hbs/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "handlebars",
+    "precompile",
+    "seajs",
+    "cmd",
+    "module"
+  ]
+}
