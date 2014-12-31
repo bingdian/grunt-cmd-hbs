@@ -1,4 +1,4 @@
-# grunt-cmd-hbs
+# grunt-cmd-hbs [![Build Status](https://travis-ci.org/bingdian/grunt-cmd-hbs.svg?branch=master)](https://travis-ci.org/bingdian/grunt-cmd-hbs)
 
 > Precompile Handlebars templates to cmd module.
 
